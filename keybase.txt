@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/natesg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nate.sg
+  * I am natesg (https://keybase.io/natesg) on keybase.
+  * I have a public key ASA3OGKgp6ddULKDI-wTqKMISsGXYxDaO3Sr9OrAnAhMnAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120373862a0a7a75d50b28323ec13a8a3084ac1976310da3b74abf4eac09c084c9c0a",
+      "host": "keybase.io",
+      "kid": "0120373862a0a7a75d50b28323ec13a8a3084ac1976310da3b74abf4eac09c084c9c0a",
+      "uid": "5e77871ec660149e361f52b00255fd19",
+      "username": "natesg"
+    },
+    "merkle_root": {
+      "ctime": 1578587966,
+      "hash": "7d82b2c2997e390d9dfff99c0c6e8e6aab7d3a9ad8fa1614897347f73992fba5d48c7dda3e7d0f77fe0dd615368985cb11aad89a80f753a729cc747f03410bb6",
+      "hash_meta": "9cb0852e655ff7264e12c7a4998ca3a7ad6f613c5f73411bfc38d838e4803458",
+      "seqno": 14156434
+    },
+    "service": {
+      "entropy": "LZp9T/BWhQIDXCWk+LSlBHYx",
+      "hostname": "nate.sg",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.0"
+  },
+  "ctime": 1578587976,
+  "expire_in": 504576000,
+  "prev": "c477adf1330709177194e51269e401079d658c94f7fb2f2d041daeec8a0df3f4",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNzhioKenXVCygyPsE6ijCErBl2MQ2jt0q/TqwJwITJwKp3BheWxvYWTESpcCC8QgxHet8TMHCRdxlOUSaeQBB51ljJT3+y8tBB2u7IoN8/TEIJC0C7htg9vCpMehEH3A3FaoliRrifmwwuaJRgEpNa5gAgHCo3NpZ8RA4iKiij67jz0+B11SoSAnbhvpd6MZDTKaGcPaO9mxwif5gzr0MW+0igQIEbpeRDCKdB6qWUewqU6gbCnDiZtfDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGfu2oWt++G4sJSWSM0Obf6pHVKV2gsl9sqmljf9F/Oto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/natesg
+
+==================================================================
